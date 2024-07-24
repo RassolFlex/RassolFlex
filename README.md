@@ -1,6 +1,6 @@
 <h1 align="center">Привет👋
   
-Я <a href="https://github.com/RassolFlex/" target="_blank">RassolFlex</a></h1>
+Я <a href="https://github.com/RassolFlex/" target="_blank">Огольцов Александр</a></h1>
 
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamwxYzdhdDR6MHVkZHRleXU0bThyZ29zdTg0Zjlvd3h6dWsyMDhlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" width="200"/>
