@@ -38,7 +38,7 @@
 
 
 
-### Есть практика в Codewars
+### Есть небольшая практика в Codewars
 [![codewars](https://www.codewars.com/users/RassolFlex/badges/small)](https://www.codewars.com/users/RassolFlex) 
 
 <!--
